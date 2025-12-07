@@ -32,13 +32,13 @@ It processes the raw mark inputs and generates:
 
 ✔ Ranks students based on **total marks**
 
- **Below is the Grading Criteria used**
+# **Below is the Grading Criteria used**
 
-**Grade A** if the Total marks ≥ 540
-**Grade B** if the Total marks ≥ 480 and < 540
-**Grade C** if the Total marks ≥ 420 and < 480
-**Grade D** if the Total marks ≥ 360 and < 420
-**Grade F** if the Total marks < 360
+**Grade A** if the Total marks ≥ 540.
+**Grade B** if the Total marks ≥ 480 and < 540.
+**Grade C** if the Total marks ≥ 420 and < 480.
+**Grade D** if the Total marks ≥ 360 and < 420.
+**Grade F** if the Total marks < 360.
 
 ## **Class Statistics Generated**
 

@@ -40,7 +40,7 @@ It processes the raw mark inputs and generates:
 **Grade D** if the Total marks ≥ 360 and < 420
 **Grade F** if the Total marks < 360
 
-## 📊 **Class Statistics Generated**
+## **Class Statistics Generated**
 
 The program automatically computes:
 
